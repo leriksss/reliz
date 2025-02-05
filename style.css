@@ -1,1 +1,51 @@
+.header{
+    height: 106px;
+    width: 1194px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.ul{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+  
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.li{
+  color: #000000;
+}
+
+.ul .li a{
+    text-decoration: none;
+    
+}
+.li2{
+    text-decoration: line;
+}
+
+.img{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.ul1{
+    display: flex;
+    justify-content: end;
+    list-style-type: none;
+    gap: 20px;
+}
+
+.ul1 .li1 a{
+    text-decoration: none;
+}
 
